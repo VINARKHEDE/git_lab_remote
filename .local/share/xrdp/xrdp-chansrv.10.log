@@ -1,0 +1,44 @@
+[20260416-23:10:05] [INFO ] Socket 12: AF_UNIX connection received
+[20260416-23:10:06] [INFO ] sound_process_output_format:
+[20260416-23:10:06] [INFO ]       wFormatNo       0
+[20260416-23:10:06] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20260416-23:10:06] [INFO ]       nChannels       2
+[20260416-23:10:06] [INFO ]       nSamplesPerSec  44100
+[20260416-23:10:06] [INFO ]       nAvgBytesPerSec 176400
+[20260416-23:10:06] [INFO ]       nBlockAlign     4
+[20260416-23:10:06] [INFO ]       wBitsPerSample  16
+[20260416-23:10:06] [INFO ]       cbSize          0
+[20260416-23:10:06] [INFO ] sound_process_output_format:
+[20260416-23:10:06] [INFO ]       wFormatNo       1
+[20260416-23:10:06] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20260416-23:10:06] [INFO ]       nChannels       2
+[20260416-23:10:06] [INFO ]       nSamplesPerSec  22050
+[20260416-23:10:06] [INFO ]       nAvgBytesPerSec 88200
+[20260416-23:10:06] [INFO ]       nBlockAlign     4
+[20260416-23:10:06] [INFO ]       wBitsPerSample  16
+[20260416-23:10:06] [INFO ]       cbSize          0
+[20260416-23:10:06] [INFO ] sound_process_training: round trip time 1
+[20260416-23:10:06] [INFO ] Detected remote smartcard 'SCARD'
+[20260416-23:10:06] [INFO ] Detected remote printer 'PRN2' (not supported)
+[20260416-23:10:44] [INFO ] Socket 12: AF_UNIX connection received
+[20260416-23:10:44] [INFO ] sound_process_output_format:
+[20260416-23:10:44] [INFO ]       wFormatNo       0
+[20260416-23:10:44] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20260416-23:10:44] [INFO ]       nChannels       2
+[20260416-23:10:44] [INFO ]       nSamplesPerSec  44100
+[20260416-23:10:44] [INFO ]       nAvgBytesPerSec 176400
+[20260416-23:10:44] [INFO ]       nBlockAlign     4
+[20260416-23:10:44] [INFO ]       wBitsPerSample  16
+[20260416-23:10:44] [INFO ]       cbSize          0
+[20260416-23:10:44] [INFO ] sound_process_output_format:
+[20260416-23:10:44] [INFO ]       wFormatNo       1
+[20260416-23:10:44] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20260416-23:10:44] [INFO ]       nChannels       2
+[20260416-23:10:44] [INFO ]       nSamplesPerSec  22050
+[20260416-23:10:44] [INFO ]       nAvgBytesPerSec 88200
+[20260416-23:10:44] [INFO ]       nBlockAlign     4
+[20260416-23:10:44] [INFO ]       wBitsPerSample  16
+[20260416-23:10:44] [INFO ]       cbSize          0
+[20260416-23:10:44] [INFO ] sound_process_training: round trip time 39
+[20260416-23:10:44] [INFO ] Detected remote smartcard 'SCARD'
+[20260416-23:10:44] [INFO ] Detected remote printer 'PRN2' (not supported)

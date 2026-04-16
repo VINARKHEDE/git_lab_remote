@@ -1,0 +1,13 @@
+[restore-stream]
+Audio/Sink:media.name:xrdp-sink:channelMap=
+Audio/Sink:media.name:xrdp-sink:channelVolumes=1.0;1.0;
+Audio/Sink:media.name:xrdp-sink:mute=false
+Audio/Sink:media.name:xrdp-sink:volume=1.0
+Audio/Sink:node.name:auto_null:channelMap=FL;FR;
+Audio/Sink:node.name:auto_null:channelVolumes=1.0;1.0;
+Audio/Sink:node.name:auto_null:mute=false
+Audio/Sink:node.name:auto_null:volume=1.0
+Audio/Source:media.name:xrdp-source:channelMap=
+Audio/Source:media.name:xrdp-source:channelVolumes=1.0;1.0;
+Audio/Source:media.name:xrdp-source:mute=false
+Audio/Source:media.name:xrdp-source:volume=1.0
